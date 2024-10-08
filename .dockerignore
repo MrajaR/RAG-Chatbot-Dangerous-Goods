@@ -1,0 +1,19 @@
+# Exclude virtual environment
+chatbot_RAG_GD_env/
+
+# Exclude Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Exclude version control and IDE-specific files
+.git/
+.vscode/
+
+# Exclude logs and temporary files
+*.log
+*.tmp
+
+# Exclude environment files
+.env
